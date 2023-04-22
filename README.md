@@ -2,11 +2,11 @@
 
 
 
-Dashboard Link
-https://public.tableau.com/app/profile/rubika.s/viz/Dashboard_16813742180160/Dashboard3
+Tableau Public Link:
+https://public.tableau.com/app/profile/rubika.s
 
-Storyboard Link
-https://public.tableau.com/app/profile/rubika.s/viz/Storyboard_16813743214690/Story1
+Web Integration Link:
+https://populationforecastinganalysis.nicepage.io/?version=994c605c-b5d0-4bd1-a417-187839ca12eb
 
-Project Explanation Link
+Video Explanation Link:
 https://drive.google.com/file/d/1X0s9B0X2lhquRa1L61TBZuipAsB0LO9X/view?usp=share_link
